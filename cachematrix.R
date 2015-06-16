@@ -1,6 +1,6 @@
 # 2 functions that hopefully compute and cache the inverse of a matrix
 
-# Some key figures provided by Coursera to validate the 
+# Some expected key figures provided by Coursera to validate the 
 # code would be very helpful. So I'm trying to setup my own test case and
 # hope it will work
 
